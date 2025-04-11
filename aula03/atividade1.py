@@ -11,6 +11,9 @@
 
 
 
+# Calcula desconto.
+
+
 Valor_desconto = 10.79
 Valor_camisa = 83.00
 print(round(Valor_camisa - Valor_desconto))
